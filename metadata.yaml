@@ -1,0 +1,36 @@
+_repo: Second-Book-of-Tales_21809
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Field, Eugene
+    birthdate: 1850
+    deathdate: 1895
+    gutenberg_agent_id: '238'
+    url: http://www.gutenberg.org/2009/agents/238
+    wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
+description: ''
+gutenberg_issued: '2007-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+tableOfContents: Humin natur' on the Hanb'ul 'nd St. Jo -- The mother in Paradise
+  -- Mr. and Mrs. Blossom -- Death and the soldier -- The 'jinin' farms -- The angel
+  and the flowers -- The child's letter -- The singer mother -- The two wives -- The
+  wooing of Miss Woppit -- The talisman -- George's birthday -- Sweet-One-Darling
+  and the dream fairies -- Sweet-One-Darling and the moon-garden -- Samuel Cowles
+  and his horse Royal -- The werewolf -- A marvelous invention -- The story of Xanthippe
+  -- Baked beans and culture -- Mlle. Prud'homme's book -- The demand for condensed
+  music -- Learning and literature -- Die Walküre und der Boomerangelungen -- The
+  works of Sappho.
+title: Second Book of Tales
+url: http://www.gutenberg.org/ebooks/21809
